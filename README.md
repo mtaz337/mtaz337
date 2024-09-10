@@ -10,8 +10,8 @@ I'm a versatile software engineer skilled in designing and implementing innovati
 - 📫 How to reach me: mahirtaz@gmail.com or connect with me on [LinkedIn](https://linkedin.com/in/mahirtaz)
 
 ## 🎓 Education
-- BSc in Computer Science, BRAC University (2015-2021)
-  - 2nd Runner-up at BRACU Intra University Programming Contest 2016
+- BSc in Computer Science, BRAC University (2021)
+  - 2nd Runner-up at BRACU Intra University Programming Contest
   - Member of BRACU Competitive Programming Enthusiasts group
   - Participated in multiple Intra-University and national programming contests
 
