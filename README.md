@@ -16,18 +16,32 @@ I'm a versatile software engineer skilled in designing and implementing innovati
   - Participated in multiple Intra-University and national programming contests
 
 ## 💼 Professional Experience
-- **Software Engineer** at United Finance Limited (Mar 2023 - Present)
-  - Automated NID Verification for MIS team, saving thousands of working hours
-  - Enhanced system performance and revamped legacy systems
-  - Conducted IT training sessions for non-technical departments
 
-- **Junior Software Specialist** at Airbringr LLC (Dec 2021 - Mar 2023)
-  - Implemented B2B shopping solutions and developed a Real-Time Dashboard
-  - Expanded Cross-Border shopping options to Canada and UAE
-  - Automated operations tasks and generated high-volume potential leads
+* **Software Developer** at MICROSEC International Ltd (Oct 2024 - Present)
 
-- **Coding Instructor** at KidsTime (Mar 2021 - Sep 2021)
-  - Taught Programming, Web Development, and Algorithms to students aged 7-18
+  * Contributed to the development of a large-scale logistics application with multi-billion dollar operations in Europe and North America
+  * Implemented event-driven architecture using Azure Service Bus topics and subscribers for efficient data flow
+  * Collaborated with cross-functional teams from the UK, Poland, and Romania to streamline workflows and ensure timely delivery
+
+* **Software Engineer** at United Finance Limited (Mar 2023 - Sep 2024)
+
+  * Automated NID Verification for MIS team, saving thousands of working hours
+  * Developed financial solutions based on DPS schemes and FDR
+  * Enhanced system performance and revamped legacy systems, improving departmental efficiency
+  * Conducted IT training sessions for non-technical departments
+
+* **Junior Software Engineer** at AirBringr LLC (Dec 2021 - Mar 2023)
+
+  * Implemented B2B shopping solutions to expand the customer base
+  * Developed a Real-Time Dashboard for sales, work, and customer insights
+  * Expanded cross-border shopping options to Canada and UAE, increasing sales
+  * Automated operational tasks, reducing workload and manual paperwork
+  * Generated high-volume potential leads to boost campaign sales
+
+* **Coding Supervisor** at EduCode Academy (Mar 2021 - Sep 2021)
+
+  * Taught Programming, Web Development, and Algorithms to over 30 students aged 7–18
+  * Organized monthly meetings with parents to discuss progress and improvement areas
 
 ## 🚀 Projects
 1. **Personal Portfolio** - [GitHub](https://github.com/mtaz337/Portfolio---React) | [Live](https://mahirtaz.netlify.app/)
