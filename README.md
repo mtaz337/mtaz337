@@ -19,9 +19,11 @@ I'm a versatile software engineer skilled in designing and implementing innovati
 
 * **Software Developer** at MICROSEC International Ltd (Oct 2024 - Present)
 
-  * Contributed to the development of a large-scale logistics application with multi-billion dollar operations in Europe and North America
-  * Implemented event-driven architecture using Azure Service Bus topics and subscribers for efficient data flow
-  * Collaborated with cross-functional teams from the UK, Poland, and Romania to streamline workflows and ensure timely delivery
+ * Contributed to a large‑scale multi‑tenant logistics application with multi‑billion dollar operations in Europe and North America.
+ * Developedmultiple backendAPI services following the Mediator‑CQRS pattern while adhering to Clean Code architecture.
+ * Contributed to developing sync, pricing, and location‑processing services for consistent data across different components.
+ * Debuggedandoptimizedapplications using Azure App Service by identifying root causes and resolving performance and reliability issues
+ * Collaborated with teams from the UK, Poland, and Romaniatostreamline workflows and ensure timely delivery.
 
 * **Software Engineer** at United Finance Limited (Mar 2023 - Sep 2024)
 
